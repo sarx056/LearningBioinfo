@@ -49,12 +49,12 @@ I have already taken some of the courses/subjects listed in Ossu so i'll be modi
 
 -Bayesian Statistics (with R)
 
--IMB data science - data analysis with python 
+-IBM data science - data analysis with python 
 
 ### Year 4 
 -Harvardx data science 
 
--IMB data science - data visualzization with python
+-IBM data science - data visualzization with python
 
 -Bioinformatics 1 to 7 
 
