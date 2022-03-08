@@ -16,7 +16,7 @@ I have already taken some of the courses/subjects listed in Ossu so i'll be modi
 ### Year 1 
 -CS 1 Python 1 
 
--CS 1 Principes of computing 1 
+-CS 1 Principles of computing 1 
 
 -CS 2 Python 2 
 
