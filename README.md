@@ -6,7 +6,7 @@ https://mybinder.org/v2/gh/sarx056/LearningPy/main
 
 ## A note to anyone who may tumble across this repository: 
 
-I had become interested in this subject increasingly throughout my college years and also cuz its a necessary skill for anyone in life sciences academia or industry. I've created this repository to log my journey :P 
+This is simply a repository where I am logging my studies and saving my code, nothing special here. Please do not see my embaressing lines of code or copy them :P 
 
 ## Resources i'm using: 
 
