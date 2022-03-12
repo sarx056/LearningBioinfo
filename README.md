@@ -8,7 +8,7 @@ https://mybinder.org/v2/gh/sarx056/LearningPy/main
 
 I had become interested in this subject increasingly throughout my college years and also cuz its a necessary skill for anyone in life sciences academia or industry. I've created this repository to log my journey :P 
 
-## resources i'm using: 
+## Resources i'm using: 
 
 https://github.com/ossu/bioinformatics
 
