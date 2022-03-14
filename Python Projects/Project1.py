@@ -1,9 +1,8 @@
-# mini project time
-# we're gonna make a mystical octosphere or whatever that is lol
-# so the user gets to ask some questions and the computer will answer yes or no
-# its like telling fortunes
-import random
+"""mini project time! we're gonna make a mystical octosphere or whatever that is lol
+so the user gets to ask some questions and the computer will answer yes or no,
+its like telling fortunes"""
 
+import random
 
 def number_to_fortune(num):
     """lets make a helper function to assign answers to numbers"""
