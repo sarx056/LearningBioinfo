@@ -17,7 +17,7 @@ def number_to_fortune(num):
         return 'out of range, no answers!'
 
 def main(question):
-    """writing the main function which is pretty simple"""
+    """coding the main function which is pretty simple"""
 
     print((input('ask your question to the mystical octosphere!: ')))
     print('shaking the octosphere....')
