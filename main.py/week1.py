@@ -1,3 +1,5 @@
+"""Week 1 - basic syntax, values, variables, conditionals and logic staments, functions, random and math modules"""
+
 #function to find feet in miles
 
 def miles_to_feet(feet):
@@ -6,6 +8,7 @@ result = miles_to_feet(23)
 print(result)
 
 #making a function to know how many seconds are there in an hour, minute and a second
+
 def total_seconds(hours, minutes, seconds):
     print('total number of seconds in an hour, a minute and a second are ')
     print(str(hours))
@@ -13,10 +16,13 @@ def total_seconds(hours, minutes, seconds):
     print(str(seconds))
 result2  = total_seconds(3600,60,1)
 print(result2)
+
 #challenge function, finding out triangle's area using herons formulae
+
 import math
 def point_distance(x0,y0,x1,y1):
     return ((x0-x1)**2 + (y0-y1)**2) ** 0.5
+
 #using helper functions to compute the formula
 def triangle_area(x0,y0,x1,y1,x2,y2):
     a = point_distance(x0,y0,x1,y1)
@@ -24,13 +30,16 @@ def triangle_area(x0,y0,x1,y1,x2,y2):
     c = point_distance(x1,y1,x2,y2)
     s = (a + b + c) / 2
     return s*(s-a)*(s-b)*(s-c)** 0.5
+
 #the function is now complete
 def test(x0,y0,x1,y1,x2,y2):
     print('triangle with vertices ')
     print(str(x0) + str(y0) + (' and ')+ str(x1) + str(y1) + (' and ')+ str(x2) + str(y2))
     print('has an area of ' + str(triangle_area(x0,y0,x1,y1,x2,y2)))
+    
 #using test function to calculate the values
 test(0,0,3,4,1,1)
+
 
 #now lets make a lottery powerball
 import random
